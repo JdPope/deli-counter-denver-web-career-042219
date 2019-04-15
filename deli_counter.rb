@@ -10,3 +10,8 @@ puts current_line
   end
 end
 
+def take_a_number(kat_deli, name)
+
+
+
+end
