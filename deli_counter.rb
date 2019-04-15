@@ -14,5 +14,5 @@ def take_a_number(katz_deli, name)
   katz_deli.push(name)
   index = katz_deli.length
   puts "Welcome, #{name}. You are number #{index} in line."
-end
+
 end
