@@ -9,5 +9,4 @@ def line(katz_deli)
   else puts "The line is currently empty."
   end
 
-  return current_place
 end
