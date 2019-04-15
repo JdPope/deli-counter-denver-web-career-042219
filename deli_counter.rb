@@ -10,8 +10,8 @@ puts current_line
   end
 end
 
-def take_a_number(kat_deli, name)
-
+def take_a_number(katz_deli, name)
+count = katz_deli.length
 
 
 end
