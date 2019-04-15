@@ -11,6 +11,7 @@ puts current_line
 end
 
 def take_a_number(katz_deli, name)
+  
 count = katz_deli.length
 
 
